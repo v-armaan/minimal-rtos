@@ -1,0 +1,19 @@
+# Build outputs
+build/
+Debug/
+Release/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+compile_commands.json
+
+# VS Code local settings (keep shared project settings if useful)
+.vscode/*.log
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.swp
+*.swo
